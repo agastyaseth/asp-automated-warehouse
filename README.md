@@ -60,7 +60,7 @@ This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICE
 
 ## Contact
 
-For any queries or support, please reach out to [Project Maintainer Name](mailto:aseth7@asu.edu).
+For any queries or support, please reach out to [Agastya Seth](mailto:aseth7@asu.edu).
 
 ## Acknowledgements
 
