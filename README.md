@@ -54,17 +54,13 @@ To run the project, execute the following steps:
 1. Navigate to the project directory in your terminal or command prompt.
 2. Run the command: `python main.py`
 
-## Contributing
-
-Contributions are welcome! Please read our [Contribution Guidelines](https://chat.openai.com/c/LINK_TO_CONTRIBUTION_GUIDELINES) for more information on how to contribute.
-
 ## License
 
-This project is licensed under the [MIT License](https://chat.openai.com/c/LINK_TO_LICENSE).
+This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md).
 
 ## Contact
 
-For any queries or support, please reach out to [Project Maintainer Name](mailto:EMAIL_ADDRESS).
+For any queries or support, please reach out to [Project Maintainer Name](mailto:aseth7@asu.edu).
 
 ## Acknowledgements
 
